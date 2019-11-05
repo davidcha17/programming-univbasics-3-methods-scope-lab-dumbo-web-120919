@@ -14,3 +14,9 @@ def link
   hand = "It's Dangerous To Go Alone! Take This."
   puts hand
 end
+
+def any_phrase(phrase)
+  catch = "Do A Barrel Roll!"
+  puts "#{phrase}"
+  puts catch
+end
